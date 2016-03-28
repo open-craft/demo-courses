@@ -1,0 +1,84 @@
+{
+    "barrels.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DnDv2", 
+            "name": "barrels.svg", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "barrels.svg", 
+        "filename": "asset-v1:OpenCraft+DnDv2+demos+type@asset+block@barrels.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "canada-dndv2-quiz.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DnDv2", 
+            "name": "canada-dndv2-quiz.svg", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "canada-dndv2-quiz.svg", 
+        "filename": "asset-v1:OpenCraft+DnDv2+demos+type@asset+block@canada-dndv2-quiz.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "dnd-test-image.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DnDv2", 
+            "name": "dnd-test-image.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "dnd-test-image.png", 
+        "filename": "asset-v1:OpenCraft+DnDv2+demos+type@asset+block@dnd-test-image.png", 
+        "import_path": "dnd-test-image.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "DnDv2", 
+            "thumbnail", 
+            "dnd-test-image-png.jpg", 
+            null
+        ]
+    }, 
+    "old-ss.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DnDv2", 
+            "name": "old-ss.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "old-ss.png", 
+        "filename": "asset-v1:OpenCraft+DnDv2+demos+type@asset+block@old-ss.png", 
+        "import_path": "old-ss.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "DnDv2", 
+            "thumbnail", 
+            "old-ss-png.jpg", 
+            null
+        ]
+    }
+}
