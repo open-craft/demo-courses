@@ -14,12 +14,12 @@
         "start": "2015-01-01T00:00:00Z", 
         "tabs": [
             {
-                "name": "Courseware", 
-                "type": "courseware"
+                "name": "Home", 
+                "type": "course_info"
             }, 
             {
-                "name": "Course Info", 
-                "type": "course_info"
+                "name": "Course", 
+                "type": "courseware"
             }, 
             {
                 "name": "Textbooks", 
