@@ -4,7 +4,8 @@
 
 This repository contains demo courses for many of the XBlocks that OpenCraft maintains.
 
-* [Drag and Drop XBlock](https://github.com/open-craft/demo-courses/tarball/drag-and-drop-v2)
+* [Drag and Drop XBlock](https://github.com/open-craft/demo-courses/archive/drag-and-drop-v2.tar.gz) (Recommended ID: Organization "OpenCraft", Number "DnDv2", Run "demos")
+* [Grammarian XBlock](https://github.com/open-craft/demo-courses/archive/grammarian.tar.gz)
 
 
 ### How to add a new course to this repository
