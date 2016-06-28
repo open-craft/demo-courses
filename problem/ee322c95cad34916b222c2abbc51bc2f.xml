@@ -1,0 +1,13 @@
+<problem display_name="Text Input" markdown="&gt;&gt;If I have a mutiple questions with the same mutiple possible answers, is it a Poll or a Survey?&lt;&lt;&#10;&#10;= Survey&#10;or= survey&#10;&#10;[explanation]&#10;Surveys allow for multiple questions with the same set of mutiple possible answers, whereas a Poll only allows for one question with mutiple possible answers.&#10;[explanation]&#10;">
+  <p>If I have a mutiple questions with the same mutiple possible answers, is it a Poll or a Survey?</p>
+  <stringresponse answer="Survey" type="ci">
+    <additional_answer answer="survey"/>
+    <textline label="If I have a mutiple questions with the same mutiple possible answers, is it a Poll or a Survey?" size="20"/>
+  </stringresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Surveys allow for multiple questions with the same set of mutiple possible answers, whereas a Poll only allows for one question with mutiple possible answers.</p>
+    </div>
+  </solution>
+</problem>

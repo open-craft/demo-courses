@@ -1,0 +1,938 @@
+{
+    "18f2c952-1eeb-11e6-8554-c4871663a1ad.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "18f2c952-1eeb-11e6-8554-c4871663a1ad.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "18f2c952-1eeb-11e6-8554-c4871663a1ad.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@18f2c952-1eeb-11e6-8554-c4871663a1ad.png", 
+        "import_path": "18f2c952-1eeb-11e6-8554-c4871663a1ad.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "18f2c952-1eeb-11e6-8554-c4871663a1ad-png.jpg", 
+            null
+        ]
+    }, 
+    "Screen_Shot_2016-06-01_at_2.15.10_PM.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "Screen_Shot_2016-06-01_at_2.15.10_PM.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Screen Shot 2016-06-01 at 2.15.10 PM.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@Screen_Shot_2016-06-01_at_2.15.10_PM.png", 
+        "import_path": "Screen Shot 2016-06-01 at 2.15.10 PM.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "Screen_Shot_2016-06-01_at_2.15.10_PM-png.jpg", 
+            null
+        ]
+    }, 
+    "add_links.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "add_links.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "add_links.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@add_links.png", 
+        "import_path": "add_links.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "add_links-png.jpg", 
+            null
+        ]
+    }, 
+    "advanced_modules_list.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "advanced_modules_list.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "advanced_modules_list.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@advanced_modules_list.png", 
+        "import_path": "advanced_modules_list.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "advanced_modules_list-png.jpg", 
+            null
+        ]
+    }, 
+    "advanced_settings.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "advanced_settings.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "advanced_settings.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@advanced_settings.png", 
+        "import_path": "advanced_settings.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "advanced_settings-png.jpg", 
+            null
+        ]
+    }, 
+    "cancel_link.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "cancel_link.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "cancel_link.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@cancel_link.png", 
+        "import_path": "cancel_link.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "cancel_link-png.jpg", 
+            null
+        ]
+    }, 
+    "delete_link.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "delete_link.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "delete_link.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@delete_link.png", 
+        "import_path": "delete_link.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "delete_link-png.jpg", 
+            null
+        ]
+    }, 
+    "fox_poll_image1.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "fox_poll_image1.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "fox poll image1.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@fox_poll_image1.png", 
+        "import_path": "fox poll image1.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "fox_poll_image1-png.jpg", 
+            null
+        ]
+    }, 
+    "fox_poll_image2.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "fox_poll_image2.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "fox poll image2.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@fox_poll_image2.png", 
+        "import_path": "fox poll image2.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "fox_poll_image2-png.jpg", 
+            null
+        ]
+    }, 
+    "fox_poll_image3.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "fox_poll_image3.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "fox poll image3.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@fox_poll_image3.png", 
+        "import_path": "fox poll image3.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "fox_poll_image3-png.jpg", 
+            null
+        ]
+    }, 
+    "fox_poll_image4.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "fox_poll_image4.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "fox poll image4.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@fox_poll_image4.png", 
+        "import_path": "fox poll image4.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "fox_poll_image4-png.jpg", 
+            null
+        ]
+    }, 
+    "img_and_label_poll.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "img_and_label_poll.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "img_and_label_poll.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@img_and_label_poll.png", 
+        "import_path": "img_and_label_poll.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "img_and_label_poll-png.jpg", 
+            null
+        ]
+    }, 
+    "img_poll.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "img_poll.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "img_poll.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@img_poll.png", 
+        "import_path": "img_poll.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "img_poll-png.jpg", 
+            null
+        ]
+    }, 
+    "img_poll_result.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "img_poll_result.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "img_poll_result.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@img_poll_result.png", 
+        "import_path": "img_poll_result.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "img_poll_result-png.jpg", 
+            null
+        ]
+    }, 
+    "importance_poll1.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "importance_poll1.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "importance poll1.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@importance_poll1.png", 
+        "import_path": "importance poll1.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "importance_poll1-png.jpg", 
+            null
+        ]
+    }, 
+    "importance_poll2.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "importance_poll2.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "importance poll2.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@importance_poll2.png", 
+        "import_path": "importance poll2.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "importance_poll2-png.jpg", 
+            null
+        ]
+    }, 
+    "mixed_markdown.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "mixed_markdown.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "mixed_markdown.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@mixed_markdown.png", 
+        "import_path": "mixed_markdown.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "mixed_markdown-png.jpg", 
+            null
+        ]
+    }, 
+    "mixed_markdown_render.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "mixed_markdown_render.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "mixed_markdown_render.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@mixed_markdown_render.png", 
+        "import_path": "mixed_markdown_render.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "mixed_markdown_render-png.jpg", 
+            null
+        ]
+    }, 
+    "ordering_arrows.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "ordering_arrows.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "ordering_arrows.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@ordering_arrows.png", 
+        "import_path": "ordering_arrows.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "ordering_arrows-png.jpg", 
+            null
+        ]
+    }, 
+    "poll.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "poll.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "poll.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@poll.png", 
+        "import_path": "poll.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "poll-png.jpg", 
+            null
+        ]
+    }, 
+    "poll_edit.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "poll_edit.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "poll_edit.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@poll_edit.png", 
+        "import_path": "poll_edit.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "poll_edit-png.jpg", 
+            null
+        ]
+    }, 
+    "poll_line_items.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "poll_line_items.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "poll_line_items.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@poll_line_items.png", 
+        "import_path": "poll_line_items.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "poll_line_items-png.jpg", 
+            null
+        ]
+    }, 
+    "poll_mixed.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "poll_mixed.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "poll_mixed.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@poll_mixed.png", 
+        "import_path": "poll_mixed.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "poll_mixed-png.jpg", 
+            null
+        ]
+    }, 
+    "poll_mixed_result.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "poll_mixed_result.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "poll_mixed_result.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@poll_mixed_result.png", 
+        "import_path": "poll_mixed_result.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "poll_mixed_result-png.jpg", 
+            null
+        ]
+    }, 
+    "poll_result.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "poll_result.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "poll_result.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@poll_result.png", 
+        "import_path": "poll_result.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "poll_result-png.jpg", 
+            null
+        ]
+    }, 
+    "private_results.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "private_results.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "private_results.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@private_results.png", 
+        "import_path": "private_results.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "private_results-png.jpg", 
+            null
+        ]
+    }, 
+    "private_results_submission.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "private_results_submission.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "private_results_submission.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@private_results_submission.png", 
+        "import_path": "private_results_submission.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "private_results_submission-png.jpg", 
+            null
+        ]
+    }, 
+    "save_button.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "save_button.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "save_button.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@save_button.png", 
+        "import_path": "save_button.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "save_button-png.jpg", 
+            null
+        ]
+    }, 
+    "subject_poll1.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "subject_poll1.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subject poll1.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@subject_poll1.png", 
+        "import_path": "subject poll1.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "subject_poll1-png.jpg", 
+            null
+        ]
+    }, 
+    "subject_poll2.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "subject_poll2.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subject poll2.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@subject_poll2.png", 
+        "import_path": "subject poll2.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "subject_poll2-png.jpg", 
+            null
+        ]
+    }, 
+    "survey.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "survey.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "survey.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@survey.png", 
+        "import_path": "survey.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "survey-png.jpg", 
+            null
+        ]
+    }, 
+    "survey_line_items.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "survey_line_items.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "survey_line_items.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@survey_line_items.png", 
+        "import_path": "survey_line_items.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "survey_line_items-png.jpg", 
+            null
+        ]
+    }, 
+    "survey_mixed.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "survey_mixed.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "survey_mixed.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@survey_mixed.png", 
+        "import_path": "survey_mixed.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "survey_mixed-png.jpg", 
+            null
+        ]
+    }, 
+    "survey_mixed_result.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "survey_mixed_result.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "survey_mixed_result.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@survey_mixed_result.png", 
+        "import_path": "survey_mixed_result.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "survey_mixed_result-png.jpg", 
+            null
+        ]
+    }, 
+    "survey_result.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "survey_result.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "survey_result.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@survey_result.png", 
+        "import_path": "survey_result.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "survey_result-png.jpg", 
+            null
+        ]
+    }, 
+    "vacation_poll_img1.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "vacation_poll_img1.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "vacation poll img1.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@vacation_poll_img1.png", 
+        "import_path": "vacation poll img1.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "vacation_poll_img1-png.jpg", 
+            null
+        ]
+    }, 
+    "vacation_poll_img2.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "vacation_poll_img2.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "vacation poll img2.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@vacation_poll_img2.png", 
+        "import_path": "vacation poll img2.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "vacation_poll_img2-png.jpg", 
+            null
+        ]
+    }, 
+    "vacation_poll_img3.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "vacation_poll_img3.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "vacation poll img3.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@vacation_poll_img3.png", 
+        "import_path": "vacation poll img3.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "vacation_poll_img3-png.jpg", 
+            null
+        ]
+    }, 
+    "vacation_poll_img4.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "poll", 
+            "name": "vacation_poll_img4.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "vacation poll img4.png", 
+        "filename": "asset-v1:OpenCraft+poll+demos+type@asset+block@vacation_poll_img4.png", 
+        "import_path": "vacation poll img4.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "poll", 
+            "thumbnail", 
+            "vacation_poll_img4-png.jpg", 
+            null
+        ]
+    }
+}

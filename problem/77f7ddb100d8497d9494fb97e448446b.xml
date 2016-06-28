@@ -1,0 +1,16 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;At present, Polls and Surveys are:&lt;&lt;&#10;( ) a graded portion of a course&#10;( ) an optionally graded portion of the course&#10;(x) an ungraded portion of the course&#10;&#10;[explanation]&#10;As of current development, Polls and Surveys are an &lt;em&gt;ungraded&lt;/em&gt; way of getting student feedback within courses.&#10;[explanation]&#10;">
+  <p>At present, Polls and Surveys are:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="At present, Polls and Surveys are:" type="MultipleChoice">
+      <choice correct="false">a graded portion of a course</choice>
+      <choice correct="false">an optionally graded portion of the course</choice>
+      <choice correct="true">an ungraded portion of the course</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>As of current development, Polls and Surveys are an <em>ungraded</em> way of getting student feedback within courses.</p>
+    </div>
+  </solution>
+</problem>

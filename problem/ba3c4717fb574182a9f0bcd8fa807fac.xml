@@ -1,0 +1,20 @@
+<problem display_name="Checkboxes" markdown="&gt;&gt;The following features can be added to Polls and Surveys:&lt;&lt;&#10;[x] Markdown&#10;[x] Images&#10;[x] Feedback&#10;[ ] Grading&#10;[x] Web links&#10;[ ] None of the above&#10;&#10;Note: Make sure you select all of the correct options—there may be more than one!&#10;&#10;[explanation]&#10;Markdown, Images, Feedback, and Web links can all be added to Polls and Surveys.&#10;[explanation]&#10;">
+  <p>The following features can be added to Polls and Surveys:</p>
+  <choiceresponse>
+    <checkboxgroup label="The following features can be added to Polls and Surveys:" direction="vertical">
+      <choice correct="true">Markdown</choice>
+      <choice correct="true">Images</choice>
+      <choice correct="true">Feedback</choice>
+      <choice correct="false">Grading</choice>
+      <choice correct="true">Web links</choice>
+      <choice correct="false">None of the above</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <p>Note: Make sure you select all of the correct options—there may be more than one!</p>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Markdown, Images, Feedback, and Web links can all be added to Polls and Surveys.</p>
+    </div>
+  </solution>
+</problem>

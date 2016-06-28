@@ -1,0 +1,17 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Which of the following is most true about the Private Feedback option of Polls and Surveys?&lt;&lt;&#10;( ) Private Feedback prevents the student from seeing the results of the Poll or Survey so that they can't be swayed by popular opinion or feel bad about dissenting from the rest fo the class. &#10;(x) Private Feedback prevents the student from seeing the results of the Poll or Survey, but besides hiding results, also allows the instructor to set the Poll or Survey to allow students to resubmit a response. &#10;( ) Private Feedback alows students to give additional feedback on polls and surveys through a text field afterward. &#10;( ) Private Feedback is not a feature of the Xblock-Polls. &#10;&#10;[explanation]&#10;Private Feedback prevents the student from seeing the results of the Poll or Survey, but besides hiding results, also allows the instructor to set the Poll or Survey to allow students to resubmit a response. &#10;[explanation]&#10;">
+  <p>Which of the following is most true about the Private Feedback option of Polls and Surveys?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Which of the following is most true about the Private Feedback option of Polls and Surveys?" type="MultipleChoice">
+      <choice correct="false">Private Feedback prevents the student from seeing the results of the Poll or Survey so that they can't be swayed by popular opinion or feel bad about dissenting from the rest fo the class.</choice>
+      <choice correct="true">Private Feedback prevents the student from seeing the results of the Poll or Survey, but besides hiding results, also allows the instructor to set the Poll or Survey to allow students to resubmit a response.</choice>
+      <choice correct="false">Private Feedback alows students to give additional feedback on polls and surveys through a text field afterward.</choice>
+      <choice correct="false">Private Feedback is not a feature of the Xblock-Polls.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Private Feedback prevents the student from seeing the results of the Poll or Survey, but besides hiding results, also allows the instructor to set the Poll or Survey to allow students to resubmit a response. </p>
+    </div>
+  </solution>
+</problem>

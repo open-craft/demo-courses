@@ -1,0 +1,49 @@
+{
+    "course/course": {
+        "advanced_modules": [
+            "poll", 
+            "survey"
+        ], 
+        "course_image": "Screen Shot 2016-06-01 at 2.15.10 PM.png", 
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        }, 
+        "display_name": "XBlock Poll", 
+        "language": "en", 
+        "start": "2030-01-01T00:00:00Z", 
+        "tabs": [
+            {
+                "name": "Home", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/course.xml", 
+                "course/course.xml"
+            ]
+        }
+    }
+}
