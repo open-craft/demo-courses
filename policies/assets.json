@@ -3,55 +3,69 @@
         "contentType": "image/svg+xml", 
         "content_son": {
             "category": "asset", 
-            "course": "DnDv2", 
+            "course": "DNDv2", 
             "name": "barrels.svg", 
             "org": "OpenCraft", 
             "revision": null, 
-            "run": "demos", 
+            "run": "DEMO", 
             "tag": "c4x"
         }, 
         "displayname": "barrels.svg", 
-        "filename": "asset-v1:OpenCraft+DnDv2+demos+type@asset+block@barrels.svg", 
-        "import_path": null, 
+        "filename": "asset-v1:OpenCraft+DNDv2+DEMO+type@asset+block@barrels.svg", 
+        "import_path": "barrels.svg", 
         "locked": false, 
-        "thumbnail_location": null
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "DNDv2", 
+            "thumbnail", 
+            "barrels.svg", 
+            null
+        ]
     }, 
     "canada-dndv2-quiz.svg": {
         "contentType": "image/svg+xml", 
         "content_son": {
             "category": "asset", 
-            "course": "DnDv2", 
+            "course": "DNDv2", 
             "name": "canada-dndv2-quiz.svg", 
             "org": "OpenCraft", 
             "revision": null, 
-            "run": "demos", 
+            "run": "DEMO", 
             "tag": "c4x"
         }, 
         "displayname": "canada-dndv2-quiz.svg", 
-        "filename": "asset-v1:OpenCraft+DnDv2+demos+type@asset+block@canada-dndv2-quiz.svg", 
-        "import_path": null, 
+        "filename": "asset-v1:OpenCraft+DNDv2+DEMO+type@asset+block@canada-dndv2-quiz.svg", 
+        "import_path": "canada-dndv2-quiz.svg", 
         "locked": false, 
-        "thumbnail_location": null
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "DNDv2", 
+            "thumbnail", 
+            "canada-dndv2-quiz.svg", 
+            null
+        ]
     }, 
     "dnd-test-image.png": {
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "DnDv2", 
+            "course": "DNDv2", 
             "name": "dnd-test-image.png", 
             "org": "OpenCraft", 
             "revision": null, 
-            "run": "demos", 
+            "run": "DEMO", 
             "tag": "c4x"
         }, 
         "displayname": "dnd-test-image.png", 
-        "filename": "asset-v1:OpenCraft+DnDv2+demos+type@asset+block@dnd-test-image.png", 
+        "filename": "asset-v1:OpenCraft+DNDv2+DEMO+type@asset+block@dnd-test-image.png", 
         "import_path": "dnd-test-image.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "OpenCraft", 
-            "DnDv2", 
+            "DNDv2", 
             "thumbnail", 
             "dnd-test-image-png.jpg", 
             null
@@ -61,21 +75,21 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "DnDv2", 
+            "course": "DNDv2", 
             "name": "old-ss.png", 
             "org": "OpenCraft", 
             "revision": null, 
-            "run": "demos", 
+            "run": "DEMO", 
             "tag": "c4x"
         }, 
         "displayname": "old-ss.png", 
-        "filename": "asset-v1:OpenCraft+DnDv2+demos+type@asset+block@old-ss.png", 
+        "filename": "asset-v1:OpenCraft+DNDv2+DEMO+type@asset+block@old-ss.png", 
         "import_path": "old-ss.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "OpenCraft", 
-            "DnDv2", 
+            "DNDv2", 
             "thumbnail", 
             "old-ss-png.jpg", 
             null
