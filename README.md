@@ -5,6 +5,7 @@
 This repository contains demo courses for many of the XBlocks that OpenCraft maintains or has
 helped to develop.
 
+* [Problem Builder](https://github.com/open-craft/problem-builder): [**problem-builder.tar.gz**](https://github.com/open-craft/demo-courses/archive/problem-builder.tar.gz) (Recommended ID: Organization "OpenCraft", Number "PB", Run "demos")
 * [Drag and Drop XBlock](https://github.com/edx-solutions/xblock-drag-and-drop-v2): [**drag-and-drop-v2.tar.gz**](https://github.com/open-craft/demo-courses/archive/drag-and-drop-v2.tar.gz) (Recommended ID: Organization "OpenCraft", Number "DnDv2", Run "demos")
 * [XBlock-Poll](https://github.com/open-craft/xblock-poll): [**poll.tar.gz**](https://github.com/open-craft/demo-courses/archive/poll.tar.gz) (Recommended ID: Organization "OpenCraft", Number "poll", Run "demos")
 * [Grammarian XBlock](https://github.com/open-craft/xblock-grammarian): [**grammarian.tar.gz**](https://github.com/open-craft/demo-courses/archive/grammarian.tar.gz)
