@@ -1,0 +1,19 @@
+<vertical display_name="Question Types">
+  <html url_name="2c2c7964242c4e3b81f0d4a3c960c01c"/>
+  <problem-builder url_name="4cd3e7817fca477fbd143006e3644b4d" xblock-family="xblock.v1">
+    <pb-answer url_name="5b94b1f4822a4e66931ce3d05b7998e7" xblock-family="xblock.v1" display_name="Long Answer" question="How do you feel about unicorns?" name="d139b8d"/>
+    <pb-mcq url_name="57d0c7ae27dc413d8bae514e95ba224c" xblock-family="xblock.v1" display_name="Multiple Choice Question" question="Do you like flowers?" correct_choices="[&#10;  &quot;7d76ed2&quot;,&#10;  &quot;4f34ff0&quot;,&#10;  &quot;fa0e545&quot;&#10;]">
+      <pb-choice url_name="59d4ab286c2c44bfa4522c852961ab3d" xblock-family="xblock.v1" value="7d76ed2">I love them!</pb-choice>
+      <pb-choice url_name="a443bb8e7d3e4603a4031b6dd8f4e86a" xblock-family="xblock.v1" value="4f34ff0">Nope</pb-choice>
+      <pb-choice url_name="d496db8683a449bfafab96f5dcfc797d" xblock-family="xblock.v1" value="fa0e545">They're OK</pb-choice>
+    </pb-mcq>
+    <pb-rating url_name="b7fc1753e5c740ce9f6a0e9225bbb684" xblock-family="xblock.v1" display_name="Rating Question" question="How much do you enjoy a good book?"/>
+    <pb-mrq url_name="89c59045a7ca4f4bb2817b9c4daf4a79" xblock-family="xblock.v1" display_name="Multiple Response Question" question="What are your hobbies?">
+      <pb-choice url_name="abe07e8d63d54abc8043530b87da4ec9" xblock-family="xblock.v1" value="3c32dbb">Gardening (I love flowers, remember?)</pb-choice>
+      <pb-choice url_name="bde6033ee6744ac5a0e7b99069ee8550" xblock-family="xblock.v1" value="88c3f65">Working out</pb-choice>
+      <pb-choice url_name="f729742b78514ad8b0a1c0eff1f7c43b" xblock-family="xblock.v1" value="00a0830">Listening to music</pb-choice>
+      <pb-choice url_name="6ce29025f9854c0da3cdb8c4e64081bf" xblock-family="xblock.v1" value="2729ac5">Being awesome</pb-choice>
+    </pb-mrq>
+    <pb-slider url_name="a1d87914a4ee4dcc96decbcbea5a86e6" xblock-family="xblock.v1" display_name="Ranged Value Slider" question="How much of your day do you spend being happy?"/>
+  </problem-builder>
+</vertical>

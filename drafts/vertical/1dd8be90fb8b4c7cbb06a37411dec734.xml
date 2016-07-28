@@ -1,0 +1,6 @@
+<vertical display_name="Content Types Specific to Step Builder" parent_url="block-v1:OpenCraft+PB+demos+type@sequential+block@e9aa44c01d8b475cab4abbb3d1738491" index_in_children_list="1">
+  <html url_name="95ffa2293fa1460badbf3d82f4049748"/>
+  <step-builder url_name="4b48f081b54a4436a992a62bc6220966" xblock-family="xblock.v1">
+    <sb-step url_name="6795edc0267d45e3b19ca755957fd6a3" xblock-family="xblock.v1"/>
+  </step-builder>
+</vertical>

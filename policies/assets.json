@@ -1,0 +1,26 @@
+{
+    "opencraft-logo.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PB", 
+            "name": "opencraft-logo.png", 
+            "org": "OpenCraft", 
+            "revision": null, 
+            "run": "demos", 
+            "tag": "c4x"
+        }, 
+        "displayname": "opencraft-logo.png", 
+        "filename": "asset-v1:OpenCraft+PB+demos+type@asset+block@opencraft-logo.png", 
+        "import_path": "opencraft-logo.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "OpenCraft", 
+            "PB", 
+            "thumbnail", 
+            "opencraft-logo-png.jpg", 
+            null
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+<vertical display_name="Step Builder">
+  <html url_name="f2e8f2a2e1164f8682ccd344f650c3e6"/>
+  <step-builder url_name="3b65a53038594069a5e61c344e420dd2" xblock-family="xblock.v1">
+    <sb-step url_name="0b9e7f9c76f0423388b7d1d8c7d95a1c" xblock-family="xblock.v1">
+      <pb-mcq url_name="cfc46b4181304a4a963952d154d17784" xblock-family="xblock.v1" question="Are you looking forward to using &lt;strong&gt;Step Builder&lt;/strong&gt; in your course?" correct_choices="[&#10;  &quot;f47ab2a&quot;,&#10;  &quot;f767ca9&quot;,&#10;  &quot;7c4e073&quot;&#10;]">
+        <pb-choice url_name="6e2e4e9be5af44a2aefc0d0ff8a41ccb" xblock-family="xblock.v1" value="f47ab2a">Yes</pb-choice>
+        <pb-choice url_name="2043f932d5c54d43990e61f56fba9788" xblock-family="xblock.v1" value="f767ca9">No</pb-choice>
+        <pb-choice url_name="cc28aa35134947e6a5be2da560ef74fa" xblock-family="xblock.v1" value="7c4e073">Not sure yet</pb-choice>
+      </pb-mcq>
+    </sb-step>
+    <sb-step url_name="d98006999b1a40dfb49e2a33961e4103" xblock-family="xblock.v1">
+      <pb-answer url_name="d49567be8c504f9d9600ed49846825db" xblock-family="xblock.v1" question="Care to elaborate?" name="89283e1"/>
+    </sb-step>
+  </step-builder>
+</vertical>

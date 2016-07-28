@@ -1,0 +1,54 @@
+{
+    "course/course": {
+        "advanced_modules": [
+            "problem-builder", 
+            "step-builder"
+        ], 
+        "cert_html_view_enabled": true, 
+        "course_image": "opencraft-logo.png", 
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        }, 
+        "display_name": "Problem Builder Demos", 
+        "language": "en", 
+        "start": "2016-01-01T00:00:00Z", 
+        "tabs": [
+            {
+                "name": "Courseware", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Course Info", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/course.xml", 
+                "course/course.xml"
+            ], 
+            "instructor_info": {
+                "instructors": []
+            }, 
+            "learning_info": []
+        }
+    }
+}

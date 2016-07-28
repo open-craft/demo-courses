@@ -1,0 +1,11 @@
+<vertical display_name="Problem Builder">
+  <html url_name="e345dbff92fe4798b9f86a6562f45927"/>
+  <problem-builder url_name="979b4a84326941309413f3347e5b5d75" xblock-family="xblock.v1">
+    <pb-mcq url_name="e61bc97d47ad425896afea6b5bb94f9d" xblock-family="xblock.v1" question="Are you looking forward to using Problem Builder in your course?" correct_choices="[&#10;  &quot;d798bc6&quot;,&#10;  &quot;ac509a5&quot;,&#10;  &quot;9e1ae52&quot;&#10;]">
+      <pb-choice url_name="fb42f1e555a54a65b646a3954e01685c" xblock-family="xblock.v1" value="d798bc6">Yes</pb-choice>
+      <pb-choice url_name="5f317da14dc04d5faf61ac610eb63986" xblock-family="xblock.v1" value="ac509a5">No</pb-choice>
+      <pb-choice url_name="ce345642e3b14db7b71dc84cc7cfa495" xblock-family="xblock.v1" value="9e1ae52">Not sure yet</pb-choice>
+    </pb-mcq>
+    <pb-answer url_name="e68c638eac0b4f11ae5dfeddfaef5972" xblock-family="xblock.v1" question="Care to elaborate?" name="8040d9f"/>
+  </problem-builder>
+</vertical>
