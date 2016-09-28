@@ -1,0 +1,9 @@
+<course advanced_modules="[&quot;problem-builder&quot;, &quot;step-builder&quot;]" cert_html_view_enabled="true" display_name="Problem Builder Demo" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-01-01T00:00:00+00:00&quot;">
+  <chapter url_name="b7da9f976d844803b359de901e8d7dfe"/>
+  <chapter url_name="32c9c76decb545cfbd3649df9d3b44e5"/>
+  <chapter url_name="764f0bee15ce4cd0a5e6b2d6ad6f774e"/>
+  <chapter url_name="44e04eb0090048dfa45799c233983798"/>
+  <chapter url_name="84489821b68e40828015f110d61ffd32"/>
+  <wiki slug="OpenCraft.PB.Demo"/>
+</course>
+
