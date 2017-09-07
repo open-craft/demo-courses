@@ -2,7 +2,8 @@
     "course/course": {
         "advanced_modules": [
             "problem-builder", 
-            "step-builder"
+            "step-builder", 
+            "pb-instructor-tool"
         ], 
         "cert_html_view_enabled": true, 
         "course_image": "opencraft-logo.png", 
