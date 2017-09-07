@@ -12,30 +12,40 @@
             }
         }, 
         "display_name": "Problem Builder Demos", 
+        "instructor_info": {
+            "instructors": []
+        }, 
         "language": "en", 
+        "learning_info": [], 
         "start": "2016-01-01T00:00:00Z", 
         "tabs": [
             {
-                "name": "Courseware", 
-                "type": "courseware"
-            }, 
-            {
-                "name": "Course Info", 
+                "course_staff_only": false, 
+                "name": "Home", 
                 "type": "course_info"
             }, 
             {
+                "course_staff_only": false, 
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "course_staff_only": false, 
                 "name": "Discussion", 
                 "type": "discussion"
             }, 
             {
+                "course_staff_only": false, 
                 "name": "Wiki", 
                 "type": "wiki"
             }, 
             {
+                "course_staff_only": false, 
                 "name": "Textbooks", 
                 "type": "textbooks"
             }, 
             {
+                "course_staff_only": false, 
                 "name": "Progress", 
                 "type": "progress"
             }
