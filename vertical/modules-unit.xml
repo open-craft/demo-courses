@@ -1,0 +1,6 @@
+<vertical display_name="Modules Unit">
+  <problem url_name="capa-mc"/>
+  <video url_name="blockstore-arch-vid"/>
+  <html url_name="html-w-static-link"/>
+  <discussion url_name="discussion-block" xblock-family="xblock.v1" display_name="A Discussion with Custom Title"/>
+</vertical>

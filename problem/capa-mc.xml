@@ -1,0 +1,14 @@
+<problem display_name="A Capa Problem (Multiple Choice)" markdown="Capa is now an XBlock, with a lot of XModule-related mixins.&#10;&#10;This is a normal capa problem. It has &quot;maximum attempts&quot; set to **5**.&#10;&#10;&gt;&gt;Blockstore is designed to store.||This is a tip. &lt;&lt;&#10;&#10;( ) XBlock metadata only&#10;(x) XBlock data/metadata and associated static asset files&#10;( ) Static asset files for XBlocks and courseware&#10;( ) XModule metadata only&#10;" max_attempts="5">
+<multiplechoiceresponse>
+  <p>Capa is now an XBlock, with a lot of XModule-related mixins.</p>
+<p>This is a normal capa problem. It has "maximum attempts" set to **5**.</p>
+<label>Blockstore is designed to store.</label>
+<description>This is a tip. </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">XBlock metadata only</choice>
+    <choice correct="true">XBlock data/metadata and associated static asset files</choice>
+    <choice correct="false">Static asset files for XBlocks and courseware</choice>
+    <choice correct="false">XModule metadata only</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>
