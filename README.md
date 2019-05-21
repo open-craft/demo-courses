@@ -9,6 +9,7 @@ helped to develop.
 * [Drag and Drop XBlock](https://github.com/edx-solutions/xblock-drag-and-drop-v2): [**drag-and-drop-v2.tar.gz**](https://github.com/open-craft/demo-courses/archive/drag-and-drop-v2.tar.gz) (Recommended ID: Organization "OpenCraft", Number "DnDv2", Run "demos")
 * [XBlock-Poll](https://github.com/open-craft/xblock-poll): [**poll.tar.gz**](https://github.com/open-craft/demo-courses/archive/poll.tar.gz) (Recommended ID: Organization "OpenCraft", Number "poll", Run "demos")
 * [Grammarian XBlock](https://github.com/open-craft/xblock-grammarian): [**grammarian.tar.gz**](https://github.com/open-craft/demo-courses/archive/grammarian.tar.gz)
+* [Blockstore Test Course](https://github.com/open-craft/blockstore): [**blockstore-test-course.tar.gz**](https://github.com/open-craft/demo-courses/archive/blockstore-test-course.tar.gz) (Recommended ID: Organization "OpenCraft", Number "B", Run "1")
 
 
 ### How to add a new course to this repository
